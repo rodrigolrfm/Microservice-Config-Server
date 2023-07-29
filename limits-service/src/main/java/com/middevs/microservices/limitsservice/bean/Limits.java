@@ -1,16 +1,17 @@
-package com.middevs.microservices.limitsService.bean;
+package com.middevs.microservices.limitsservice.bean;
 
 public class Limits {
     private int minimum;
     private int maximum;
 
     public Limits(int minimum, int maximum) {
+        super();
         this.minimum = minimum;
         this.maximum = maximum;
     }
 
     public Limits(){
-
+        super();
     }
 
     public int getMinimum() {

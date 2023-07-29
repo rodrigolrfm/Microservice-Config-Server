@@ -9,12 +9,12 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.middevs.microservices</groupId>
-	<artifactId>limitsService</artifactId>
-	<version>1.0.0</version>
-	<name>limitsService</name>
-	<description>limitsService</description>
+	<artifactId>limits-service</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>limits-service</name>
+	<description>limits-service</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 		<spring-cloud.version>2021.0.8</spring-cloud.version>
 	</properties>
 	<dependencies>

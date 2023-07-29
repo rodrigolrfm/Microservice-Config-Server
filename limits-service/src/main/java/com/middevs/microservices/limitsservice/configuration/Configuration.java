@@ -1,4 +1,4 @@
-package com.middevs.microservices.limitsService.configuration;
+package com.middevs.microservices.limitsservice.configuration;
 
 
 
